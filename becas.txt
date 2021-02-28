@@ -1,0 +1,13 @@
+
+REGISTRO DE BECAS
+
+Nombre del estudiante: Chris
+Edad del estudiante: 22
+Universidad a la que pertenece: EPN
+Promedio: 7.3
+Monto de la beca: $500.00.
+Nombre del estudiante: Majo
+Edad del estudiante: 19
+Universidad a la que pertenece: EPN
+Promedio: 9
+Monto de la beca: $2000.00.
